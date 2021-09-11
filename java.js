@@ -62,7 +62,7 @@ let whosTurn = ''
     }
     if (board[0] == board[4] && board[4] != null) {
         if (board[4] == board[8]) {
-            alert(whosTurns)
+            alert(whosTurn)
         }
     }
     if (board[2] == board[4] && board[4] != null) {
